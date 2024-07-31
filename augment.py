@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
 from scipy.interpolate import CubicSpline      # for warping
 from transforms3d.axangles import axangle2mat  # for rotation
 
